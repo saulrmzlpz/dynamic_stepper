@@ -1,8 +1,7 @@
 name: dynamic_stepper
 description: Ability to dynamically create or remove steps in Material Stepper.
 version: 0.0.1
-homepage:
-repository: 
+repository: https://github.com/saulrmzlpz/dynamic_stepper
 
 environment:
   sdk: '>=2.18.6 <3.0.0'
