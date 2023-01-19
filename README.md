@@ -41,7 +41,7 @@ Replace the original Stepper with DynamicStepper:
     DynamicStepper(
         currentStep: _index,
         onStepCancel: () {
-        // Handle candel
+        // Handle cancel
         },
         onStepContinue: () {
         // Handle continue
