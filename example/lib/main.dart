@@ -55,7 +55,7 @@ class _MyStatefulWidgetState extends State<MyStatefulWidget> {
             }
           },
           onStepContinue: () {
-            if (_index < steps.length) {
+            if (_index < steps.length - 1) {
               setState(() {
                 _index += 1;
               });
