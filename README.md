@@ -9,7 +9,7 @@ Credits: https://github.com/sanket143
 
 ## Features
 
-![Demo](https://user-images.githubusercontent.com/76019022/213401163-87e4b022-cb41-4b64-9884-455ad2d832a7.gif){ width=50% }
+![Demo](https://user-images.githubusercontent.com/76019022/213401163-87e4b022-cb41-4b64-9884-455ad2d832a7.gif){width=50%}
 
 ## Getting started
 
