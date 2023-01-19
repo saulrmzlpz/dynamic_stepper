@@ -9,7 +9,7 @@ Credits: https://github.com/sanket143
 
 ## Features
 
-TODO: List what your package can do. Maybe include images, gifs, or videos.
+![Demo](https://user-images.githubusercontent.com/76019022/213401163-87e4b022-cb41-4b64-9884-455ad2d832a7.gif)
 
 ## Getting started
 
