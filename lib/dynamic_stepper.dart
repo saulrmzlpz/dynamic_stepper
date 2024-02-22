@@ -513,7 +513,7 @@ class _DynamicStepperState extends State<DynamicStepper> with TickerProviderStat
               child: TextButton(
                 onPressed: widget.onStepCancel,
                 style: TextButton.styleFrom(
-                  primary: cancelColor,
+                  foregroundColor: cancelColor,
                   padding: buttonPadding,
                   shape: buttonShape,
                 ),
