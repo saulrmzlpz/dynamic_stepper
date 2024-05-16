@@ -534,13 +534,13 @@ class _DynamicStepperState extends State<DynamicStepper> with TickerProviderStat
       case DynamicStepState.indexed:
       case DynamicStepState.editing:
       case DynamicStepState.complete:
-        return textTheme.bodyText1!;
+        return textTheme.bodyLarge!;
       case DynamicStepState.disabled:
-        return textTheme.bodyText1!.copyWith(
+        return textTheme.bodyLarge!.copyWith(
           color: _isDark() ? _kDisabledDark : _kDisabledLight,
         );
       case DynamicStepState.error:
-        return textTheme.bodyText1!.copyWith(
+        return textTheme.bodyLarge!.copyWith(
           color: _isDark() ? _kErrorDark : _kErrorLight,
         );
     }
@@ -554,13 +554,13 @@ class _DynamicStepperState extends State<DynamicStepper> with TickerProviderStat
       case DynamicStepState.indexed:
       case DynamicStepState.editing:
       case DynamicStepState.complete:
-        return textTheme.caption!;
+        return textTheme.bodySmall!;
       case DynamicStepState.disabled:
-        return textTheme.caption!.copyWith(
+        return textTheme.bodySmall!.copyWith(
           color: _isDark() ? _kDisabledDark : _kDisabledLight,
         );
       case DynamicStepState.error:
-        return textTheme.caption!.copyWith(
+        return textTheme.bodySmall!.copyWith(
           color: _isDark() ? _kErrorDark : _kErrorLight,
         );
     }
@@ -574,13 +574,13 @@ class _DynamicStepperState extends State<DynamicStepper> with TickerProviderStat
       case DynamicStepState.indexed:
       case DynamicStepState.editing:
       case DynamicStepState.complete:
-        return textTheme.bodyText1!;
+        return textTheme.bodyLarge!;
       case DynamicStepState.disabled:
-        return textTheme.bodyText1!.copyWith(
+        return textTheme.bodyLarge!.copyWith(
           color: _isDark() ? _kDisabledDark : _kDisabledLight,
         );
       case DynamicStepState.error:
-        return textTheme.bodyText1!.copyWith(
+        return textTheme.bodyLarge!.copyWith(
           color: _isDark() ? _kErrorDark : _kErrorLight,
         );
     }
