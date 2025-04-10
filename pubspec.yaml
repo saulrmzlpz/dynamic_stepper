@@ -1,6 +1,7 @@
 name: dynamic_stepper
 description: Ability to dynamically create or remove steps in Material Stepper.
-version: 0.0.2
+Edited according to official flutter Stepper
+version: 0.0.4
 repository: https://github.com/saulrmzlpz/dynamic_stepper
 
 environment:
@@ -14,7 +15,7 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_lints: ^2.0.0
+  flutter_lints: ^5.0.0
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
