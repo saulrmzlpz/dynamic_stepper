@@ -1,6 +1,5 @@
 name: dynamic_stepper
 description: Ability to dynamically create or remove steps in Material Stepper.
-Edited according to official flutter Stepper
 version: 0.0.4
 repository: https://github.com/saulrmzlpz/dynamic_stepper
 
