@@ -1,5 +1,5 @@
-import 'package:flutter/material.dart';
 import 'package:dynamic_stepper/dynamic_stepper.dart';
+import 'package:flutter/material.dart';
 
 void main() => runApp(const MyApp());
 const String _title = 'Flutter Code Sample';
